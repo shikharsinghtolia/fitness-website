@@ -4,6 +4,7 @@ The fitness club will give you the details about the exercise, an animation abou
 Framework used -: React.js  
 Api used -: Rapid Api(Exercise Db and YouTube Search and download API)
 
+Live Link to the website -: https://benevolent-beijinho-4dd669.netlify.app/
 
 # Getting Started with Create React App
 
